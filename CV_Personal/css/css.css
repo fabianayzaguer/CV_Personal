@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;600&display=swap');
+
+footer {
+    background-color: #45936c;
+    text-align: center;
+    color: #e5ead4;
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 15px;
+    line-height: 200%;
+    bottom: 0;
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    background-image: url("../img/plants.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 38vh;   
+}
+
+body{
+    background-color: #e5ead4;
+    margin: 0px;   
+}
+
+.title {
+    background-color: #45936c;
+    color: #e5ead4;  
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 200%;
+    letter-spacing: 22px;
+    text-align: center;
+}
+
+#sub {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    letter-spacing: 10px;
+    line-height:140%;
+    padding-left: 25px;
+}
+
+#first {
+    margin-bottom: 6px;
+}
+
+.data {
+    font-family: 'Mulish', sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    line-height: 25px;
+    color: #334f53;
+    padding-left: 90px;
+}
+
+#sobreMi {
+    text-align: center;
+}
+
+.profile {
+    width: 30vh;
+    height: 30vh;
+    border-radius: 50%;
+    border-color: #e5ead4;
+    border-style: double;
+    border-width: 15px;
+    border-inline-end-width: 50px;
+    border-inline-start-width: 50px;
+   
+    
+}
+
+.button {
+    background-color: #334f53;
+    color: #e5ead4;
+    border: 0px;
+    padding: 8px;
+    margin: 10px;
+    font-family: 'Mulish', sans-serif;
+}
+
+.button:hover {
+    background-color: #1f0a1d;
+}
+
+.buttons {
+    background-color: #45936c;
+    line-height: 100px;
+    height: 100px;
+    text-align:center ;
+    letter-spacing: 30px;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    
+}
+
+a:hover {
+    color: #1f0a1d;
+  }
